@@ -3,7 +3,7 @@
 
 ## About me
 
-- 💻 Today I'm mainly focused in mobile development.
+- 💻 I'm mainly focused in mobile development.
 - 🌱 I've done most of my mobile projects using React Native. But lately I've been trying out Flutter and Native Android development as new ways to improve myself before I dive down into a tech path.
 - 📚 Most of my graduation projects were made using Java. So I have some experience with Maven, Hibernate, SpringBoot and other backend technologies that uses Java.
 
