@@ -3,9 +3,9 @@
 
 ## About me
 
-- 🎯 I'm mainly focused in backend devolopment and mobile development.
+- 🎯 I'm mainly focused in backend development and mobile development.
 
-- 💻 Currently I'm working as .NET 5 C# Backend Developer.
+- 💻 Currently I'm working as Backend Developer with .NET 5, ASP.NET and C# as main technologies.
 
 - 🌱 I've done most of my mobile projects using React Native. But lately I've been trying out Flutter and Native Android development as new ways to improve myself.
 
