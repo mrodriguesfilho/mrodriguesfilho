@@ -3,13 +3,13 @@
 
 ## About me
 
-- 🎯 I'm mainly focused in backend development and mobile development.
+- 💻 I'm a Back-End Engineer and currently I'm working with .NET 5, ASP.NET and C# as main technologies.
 
-- 💻 Currently I'm working as Backend Developer with .NET 5, ASP.NET and C# as main technologies.
+- 🌱 As a developer, I'm always looking for new techonologies and new ways to solve problems more efficiently. And for this purpose I tend to take a lot of different courses and online training, particularly thoses with a Back-End made with NodeJS.
 
-- 🌱 I've done most of my mobile projects using React Native. But lately I've been trying out Flutter and Native Android development as new ways to improve myself.
+- ❤ I'm also very fond of Mobile Development and I've done most of my mobile projects using React Native. But lately I've been trying out Flutter as new way to improve myself.
 
-- 📚 Most of my graduation projects were made using Java. So I have some experience with Maven, Hibernate, SpringBoot and other backend technologies that uses Java aswell.
+- 📚 Most of my graduation projects were made using Java. So I also have some experience with Maven, Hibernate, SpringBoot and other Back-End technologies that uses Java aswell.
 
 
 ## 📫 You can reach me at
