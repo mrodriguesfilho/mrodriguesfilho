@@ -7,7 +7,7 @@
 
 - 🌱 As a developer, I'm always looking for new techonologies and new ways to solve problems more efficiently. And for this purpose I tend to take a lot of different courses and online training, particularly those with a Back-End made with NodeJS.
 
-- ❤ I'm also very fond of Mobile Development and I've done most of my mobile projects using React Native. But lately I've been trying out Flutter as new way to improve myself.
+- ❤ I'm also very fond of Mobile Development and I've done most of my mobile projects using React Native. But lately I've been trying out Flutter as a new way to improve myself.
 
 - 📚 Most of my graduation projects were made using Java. So I also have some experience with Maven, Hibernate, SpringBoot and other Back-End technologies that uses Java aswell.
 
