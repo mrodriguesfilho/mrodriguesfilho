@@ -9,7 +9,7 @@
 
 - ❤ I'm also very fond of Mobile Development and I've done most of my mobile projects using React Native. But lately I've been trying out Flutter as a new way to improve myself.
 
-- 📚 Most of my graduation projects were made using Java. So I also have some experience with Maven, Hibernate, SpringBoot and other Back-End technologies that uses Java aswell.
+- 📚 Most of my CS degree projects were made using Java. So I also have some experience with Maven, Hibernate, SpringBoot and other Back-End technologies that uses Java aswell.
 
 
 ## 📫 You can reach me at
