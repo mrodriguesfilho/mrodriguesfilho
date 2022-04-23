@@ -3,7 +3,7 @@
 
 ## About me
 
-- 💻 I'm a Back-End Engineer and currently I'm working with .NET 5, ASP.NET and C# as main technologies.
+- 💻 I'm a Back-End Engineer and currently I'm working with .NET 5/6, ASP.NET and C# as main technologies.
 
 - 🌱 As a developer, I'm always looking for new technologies and new ways to solve problems more efficiently. Therefore I tend to take a lot of different courses and online training, particularly those with a Back-End made with NodeJS.
 
