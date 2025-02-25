@@ -5,9 +5,9 @@
 
 - 💻 I'm a Back-End Engineer and currently I'm working with C# and .NET as main technologies.
 
-- 🌱 As a developer, I'm always looking for new technologies and new ways to solve problems more efficiently. Therefore I tend to take a lot of different courses and online training, particularly those with a Back-End made with NodeJS and GoLang.
+- 🌱 As a developer, I'm always looking for new technologies and new ways to solve problems more efficiently. Therefore I'm always tinkering with technologies, specially those that I can use GoLang.
 
-- 📚 Most of my CS degree projects were made using Java. So I also have some experience with Maven, Hibernate, SpringBoot and other Back-End technologies that uses Java aswell.
+- 📚 Most of my CS degree projects were made using Java. So I also have some experience with Maven, Hibernate, Spring and other Back-End technologies that uses Java aswell.
 
 
 ## 📫 You can reach me at
